@@ -11,19 +11,18 @@
 
 ## 本项目的效果图：
 <div align=center>
-        <h3>低空间分辨率的多光谱遥感影像</h3>
-        <img src="https://github.com/yangdanyang2005/Fusion-of-High-Resolution-Panchromatic-and-Low-Resolution-Multispectral-Images/blob/main/SDPNet-for-pansharpening/show_imgs/ms/homework.png" width="150" height="135"/>
-    <br>
+    <h3>低空间分辨率的多光谱遥感影像</h3>
+    <img src="https://github.com/yangdanyang2005/Fusion-of-High-Resolution-Panchromatic-and-Low-Resolution-Multispectral-Images/blob/main/SDPNet-for-pansharpening/show_imgs/ms/homework.png" width="150" height="135"/>
+   </div> <br>
 <div align=center>
-        <h3>高空间分辨率的全色遥感影像</h3>
-        <img src="https://github.com/yangdanyang2005/Fusion-of-High-Resolution-Panchromatic-and-Low-Resolution-Multispectral-Images/blob/main/SDPNet-for-pansharpening/show_imgs/pan/homework.png" width="600" height="540"/>
-    <br>
+    <h3>高空间分辨率的全色遥感影像</h3>
+    <img src="https://github.com/yangdanyang2005/Fusion-of-High-Resolution-Panchromatic-and-Low-Resolution-Multispectral-Images/blob/main/SDPNet-for-pansharpening/show_imgs/pan/homework.png" width="600" height="540"/>
+    </div><br>
     
 <div align=center>
-        <h3>融合后的高空间分辨率多光谱遥感影像</h3>
-        <img src="https://github.com/yangdanyang2005/Fusion-of-High-Resolution-Panchromatic-and-Low-Resolution-Multispectral-Images/blob/main/SDPNet-for-pansharpening/results/homework/output_homework.png" width="600" height="540"/>
-<br><br>
-
+    <h3>融合后的高空间分辨率多光谱遥感影像</h3>
+    <img src="https://github.com/yangdanyang2005/Fusion-of-High-Resolution-Panchromatic-and-Low-Resolution-Multispectral-Images/blob/main/SDPNet-for-pansharpening/results/homework/output_homework.png" width="600" height="540"/>
+</div><br><br>
 
 # 一、本项目的使用说明
 
