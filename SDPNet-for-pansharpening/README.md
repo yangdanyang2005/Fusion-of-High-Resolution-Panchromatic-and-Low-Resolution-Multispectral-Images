@@ -94,3 +94,17 @@ If this work is helpful, please cite it as:
 ```
 
 在此作为本项目对原项目的引用，并对原项目的作者表示感谢！
+
+# 三、引用本项目
+
+如果您在您的研究或项目中使用了本项目，请按照以下方式进行引用：
+```
+@misc{yangdanyang2024sdpnet, 
+    title = {SDPNet: 基于深度学习的融合方法}, 
+    author = {杨丹阳}, 
+    year = {2024}, 
+    url = {https://github.com/yangdanyang2005/Fusion-of-High-Resolution-Panchromatic-and-Low-Resolution-Multispectral-Images}, 
+    note = {GitHub repository}, 
+}
+```
+感谢您对本项目的支持与关注，引用本项目有助于推动遥感影像融合领域的进一步发展。如有任何问题或建议，欢迎通过 **yangdanyang@whu.edu.cn** 联系我。
