@@ -1,9 +1,9 @@
 # SDPNet：基于深度学习的融合方法
 ## A Deep Network for Pan-sharpening with Enhanced Information Representation (TGRS 2020)    
-- 本项目是由 **杨丹阳** 在 2020 年 IEEE TGRS 上的论文《SDPNet: A Deep Network for Pan-Sharpening With Enhanced Information Representation》的开源代码的基础上进行修改和完善的，原项目中部分代码经过了 **杨丹阳** 的重新开发。    
-- 原项目的开源代码： https://github.com/hanna-xu/SDPNet    
+- 📌 本项目是由 **杨丹阳** 在 2020 年 IEEE TGRS 上的论文《SDPNet: A Deep Network for Pan-Sharpening With Enhanced Information Representation》的开源代码的基础上进行修改和完善的，原项目中部分代码经过了 **杨丹阳** 的重新开发。    
+- 👨‍💻 原项目的开源代码： https://github.com/hanna-xu/SDPNet    
 原项目的论文： https://ieeexplore.ieee.org/document/9164849    
-- **杨丹阳** 的联系方式： yangdanyang@whu.edu.cn
+- ✉ **杨丹阳** 的联系方式： yangdanyang@whu.edu.cn
 <br><br>
 
 ## 原项目的效果图：
@@ -107,4 +107,4 @@ If this work is helpful, please cite it as:
     note = {GitHub repository}, 
 }
 ```
-感谢您对本项目的支持与关注，引用本项目有助于推动遥感影像融合领域的进一步发展。如有任何问题或建议，欢迎通过 **yangdanyang@whu.edu.cn** 联系我。
+感谢您对本项目的支持与关注，引用本项目有助于推动遥感影像融合领域的进一步发展。如有任何问题或建议，欢迎通过 **yangdanyang@whu.edu.cn** 联系我！😀
