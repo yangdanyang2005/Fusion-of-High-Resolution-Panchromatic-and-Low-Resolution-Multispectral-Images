@@ -19,7 +19,7 @@
     </div>
     <div style="text-align: center;">
         <h4>融合后的高空间分辨率多光谱遥感影像</h4>
-        <img src="https://github.com/yangdanyang2005/Fusion-of-High-Resolution-Panchromatic-and-Low-Resolution-Multispectral-Images/SDPNet-for-pansharpening/results/output_homework.tiff" width="600" height="540"/>
+        <img src="https://github.com/yangdanyang2005/Fusion-of-High-Resolution-Panchromatic-and-Low-Resolution-Multispectral-Images/SDPNet-for-pansharpening/results/output_homework.png" width="600" height="540"/>
     </div>
 </div>
 
