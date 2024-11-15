@@ -13,13 +13,13 @@
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center; margin-right: 20px;">
         <h4>低空间分辨率的多光谱遥感影像</h4>
-        <img src="./test_imgs/ms/homework.tiff" width="150" height="135"/><br><br>
+        <img src="https://github.com/yangdanyang2005/Fusion-of-High-Resolution-Panchromatic-and-Low-Resolution-Multispectral-Images/SDPNet-for-pansharpening/test_imgs/ms/homework.tiff" width="150" height="135"/><br><br>
         <h4>高空间分辨率的全色遥感影像</h4>
-        <img src="./test_imgs/pan/homework.tiff" width="330" height="308"/>
+        <img src="https://github.com/yangdanyang2005/Fusion-of-High-Resolution-Panchromatic-and-Low-Resolution-Multispectral-Images/SDPNet-for-pansharpening/test_imgs/pan/homework.tiff" width="330" height="308"/>
     </div>
     <div style="text-align: center;">
         <h4>融合后的高空间分辨率多光谱遥感影像</h4>
-        <img src="./results/output_homework.tiff" width="600" height="540"/>
+        <img src="https://github.com/yangdanyang2005/Fusion-of-High-Resolution-Panchromatic-and-Low-Resolution-Multispectral-Images/SDPNet-for-pansharpening/results/output_homework.tiff" width="600" height="540"/>
     </div>
 </div>
 
